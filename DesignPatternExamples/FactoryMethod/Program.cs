@@ -13,7 +13,7 @@ namespace FactoryMethod
             IWoodFactory woodFactory = new WoodFactory();
             var bat = woodFactory.CreateProduct(WoodItem.CricketBat);
             var stick = woodFactory.CreateProduct(WoodItem.HockeyStick);
-
+            Console.ReadKey();
         }
     }    
 }

@@ -4,3 +4,4 @@ D:\Practice-Programs\DesignPatternExamples\DesignPattern\DesignPatternExamples\F
 D:\Practice-Programs\DesignPatternExamples\DesignPattern\DesignPatternExamples\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
 D:\Practice-Programs\DesignPatternExamples\DesignPattern\DesignPatternExamples\FactoryMethod\obj\Debug\FactoryMethod.exe
 D:\Practice-Programs\DesignPatternExamples\DesignPattern\DesignPatternExamples\FactoryMethod\obj\Debug\FactoryMethod.pdb
+D:\Practice-Programs\DesignPatternExamples\DesignPattern\DesignPatternExamples\FactoryMethod\obj\Debug\FactoryMethod.csprojAssemblyReference.cache
