@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "FactoryMet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{A6757BC1-42AB-4A34-B3C2-0AF57D638DFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{D7890AC9-F9DC-4668-BB37-D3127F074BC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A6757BC1-42AB-4A34-B3C2-0AF57D638DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6757BC1-42AB-4A34-B3C2-0AF57D638DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6757BC1-42AB-4A34-B3C2-0AF57D638DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7890AC9-F9DC-4668-BB37-D3127F074BC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7890AC9-F9DC-4668-BB37-D3127F074BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7890AC9-F9DC-4668-BB37-D3127F074BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7890AC9-F9DC-4668-BB37-D3127F074BC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
