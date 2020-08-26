@@ -7,7 +7,7 @@
         public SunRoofCarDecorator(ICar car) : base(car)
         {
             _car = car;
-            _description = "Glass SunRoof  ";
+            _description = "SunRoof ";
         }
 
         public override string GetDescription() => _car.GetDescription() + "," + _description;
